@@ -4,6 +4,6 @@ Discord bot connected to the Riot API that provides updates on the ranked status
 
 # commands:
 
-!beboLOL - gives the current ranked status of b3b0 in solo/duo  
+!LOL - gives the current ranked status of b3b0 in solo/duo  
 
-!beboTFT - gives the current ranked status of b3b0 in ranked TFT
+!TFT - gives the current ranked status of b3b0 in ranked TFT
