@@ -1,7 +1,5 @@
 # imports
 
-from cgi import print_form
-from email.mime import image
 from riotwatcher import LolWatcher , TftWatcher
 import config
 
